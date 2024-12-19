@@ -1,3 +1,5 @@
+// This will insert a value to a position starting from the 0 index to the next positon after the end of last value in the array given that it's within array capacity.
+
 #include <bits/stdc++.h>
 using namespace std;
 
